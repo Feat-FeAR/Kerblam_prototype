@@ -1,4 +1,4 @@
-# A toy ___Kerblam!___ project
+# A ___Kerblam!___ toy project
 
 This repository contains a minimal data analysis project as a personal reminder
 on how to use [___Kerblam!___](https://github.com/MrHedmad/kerblam).
